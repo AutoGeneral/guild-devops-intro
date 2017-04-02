@@ -15,7 +15,9 @@ Here is the list of urls to free online courses and materials that can be useful
 - [Working with the AWS Management Console](http://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html)
 
 ## Ansible 
--
+- [Get started](https://www.ansible.com/get-started) with Ansible 
+- Nice [starting presentation](https://www.youtube.com/watch?v=iVWmbStE1MM) 
+- [Official videos](https://www.ansible.com/videos)
 
 ## Containers
 - Official page [What is Docker?](https://www.docker.com/what-docker)
@@ -24,7 +26,8 @@ Here is the list of urls to free online courses and materials that can be useful
 - Webinar [Continuous Integration Using Docker](https://devops.com/continuous-integration-using-docker/_
 
 ## Tech and patterns
-- Reverse proxy
+- Reverse proxy pattern
+  - [Publication](https://www.researchgate.net/publication/221034753_Reverse_Proxy_Patterns)
 - Application scalability
   - [Application clustering](https://dzone.com/articles/application-clustering)
   - [Design and Operation for Resilient, Real-time Applications](https://devops.com/saas-design-operation-resilient-real-time-applications/)
