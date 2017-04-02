@@ -23,7 +23,7 @@ Here is the list of urls to free online courses and materials that can be useful
 - Official page [What is Docker?](https://www.docker.com/what-docker)
 - Good [Introduction video about Docker](https://www.youtube.com/watch?v=Q5POuMHxW-0)
 - Free [Docker courses](https://training.docker.com/)
-- Webinar [Continuous Integration Using Docker](https://devops.com/continuous-integration-using-docker/_
+- Webinar [Continuous Integration Using Docker](https://devops.com/continuous-integration-using-docker/)
 
 ## Tech and patterns
 - Reverse proxy pattern
