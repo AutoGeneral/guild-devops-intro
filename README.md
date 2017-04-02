@@ -28,6 +28,7 @@ Here is the list of urls to free online courses and materials that can be useful
 ## Tech and patterns
 - Reverse proxy pattern
   - [Publication](https://www.researchgate.net/publication/221034753_Reverse_Proxy_Patterns)
+  - [nginx doc](https://www.nginx.com/resources/admin-guide/reverse-proxy/)
 - Application scalability
   - [Application clustering](https://dzone.com/articles/application-clustering)
   - [Design and Operation for Resilient, Real-time Applications](https://devops.com/saas-design-operation-resilient-real-time-applications/)
